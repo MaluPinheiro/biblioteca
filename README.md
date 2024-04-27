@@ -5,6 +5,10 @@
 ## Turma: CC5Mb
 ## Docente: Wagner de Andrade Perin
 
+## Ideia do projeto:
+Realizar uma API que simula uma biblioteca, com capacidades de "Retornar", "Adicionar", "Atualizar" e "Deletar" determinadas categorias, estas sendo "Livros" e "Categorias", de maneira que armazene os dados das informações.
+Além disso, a API também restringe o usuário caso este não possua permissões necessárias para realizar a tarefa requisitada.
+
 Primeiramente, após realizar a instalação dos arquivos deste repositório, utilize "**npm install**" para instalar os arquivos faltantes.
 
 Também é necessário criar o arquivo "**.env**" e preencher nele as seguintes informações:
@@ -12,7 +16,7 @@ Também é necessário criar o arquivo "**.env**" e preencher nele as seguintes 
 STAGE='test'
 PORT=3000
 HOST='127.0.0.1'
-JWT_SECRET='Abcd@1234'
+JWT_SECRET='Abcd@12345'
 DB_URL='mongodb://localhost:27017/biblioteca'
 ```
 
