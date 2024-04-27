@@ -9,6 +9,7 @@
 Realizar uma API que simula uma biblioteca, com capacidades de "Retornar", "Adicionar", "Atualizar" e "Deletar" determinadas categorias, estas sendo "Livros" e "Categorias", de maneira que armazene os dados das informações.
 Além disso, a API também restringe o usuário caso este não possua permissões necessárias para realizar a tarefa requisitada.
 
+## Etapas:
 Primeiramente, após realizar a instalação dos arquivos deste repositório, utilize "**npm install**" para instalar os arquivos faltantes.
 
 Também é necessário criar o arquivo "**.env**" e preencher nele as seguintes informações:
