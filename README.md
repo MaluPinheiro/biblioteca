@@ -29,7 +29,7 @@ Quando isto for feito, selecionamos "Headers" e preenchemos "header" com "x-acce
 
 Agora, podemos realizar alguns comandos que não poderiamos anteriormente.
 
-Algumas informações extras de como utilizar o Thunder Client:
+## Algumas informações extras de como utilizar o Thunder Client:
 "http://127.0.0.1:3000/books" para utilizar comandos em "Livros"
 
 "http://127.0.0.1:3000/genres" para utilizar comandos em "Gêneros"
