@@ -29,12 +29,15 @@ Quando isto for feito, selecionamos "Headers" e preenchemos "header" com "x-acce
 
 Agora, podemos realizar alguns comandos que não poderiamos anteriormente.
 
-## Algumas informações extras de como utilizar o Thunder Client:
+Algumas informações extras de como utilizar o Thunder Client:
+"http://127.0.0.1:3000/books" para utilizar comandos em "Livros"
 
-"**http://127.0.0.1:3000/books**" para utilizar comandos em "Livros"
+"http://127.0.0.1:3000/genres" para utilizar comandos em "Gêneros"
 
-"**http://127.0.0.1:3000/genres**" para utilizar comandos em "Gêneros"
+"http://127.0.0.1:3000/register" para fazer o POST "Registro"
 
-Para utilizar o comando "**DELETE**", precisamos por o id na frente.
+Para utilizar o comando "DELETE", precisamos por o id na frente da rota "books".
 
-Para utilizar o comando "**POST**", devemos modificar o body também.
+Para utilizar o comando "POST", devemos modificar o body de acordo com as propriedas que são requisitos de cada rota.
+
+Para utilizar o comando "PUT", devemos modificar o body de acordo com a atualização que deseja fazer.
