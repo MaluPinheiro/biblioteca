@@ -34,6 +34,9 @@ Quando isto for feito, selecionamos "Headers" e preenchemos "header" com "x-acce
 
 Agora, podemos realizar alguns comandos que não poderiamos anteriormente.
 
+## Testes unitários:
+Foram feitos no arquivo "Test.js", onde foram cada rota foi testada, tanto para "Testes bem sucedidos" quanto para os "Testes com erro"; podendo ser "Erros de Servidor", de "Erro de Cliente" e de "Erro de Autorização não Concedida", cada um representado por seu respectivo "Código de Status do HTTPs".
+
 ## Algumas informações extras de como utilizar o Thunder Client:
 "http://127.0.0.1:3000/books" para utilizar comandos em "Livros"
 
